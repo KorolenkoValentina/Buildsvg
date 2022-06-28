@@ -1,0 +1,25 @@
+
+.stage{
+    fill: #0000ff00;
+    stroke:#f14049;
+}
+.stage:hover {
+    fill: #5a08384d;
+}
+.build-info {
+width: 400px;
+height: 200px;
+background-color: #4b0c31d3;
+text-align: center;
+margin-top: 20px;
+}
+.build-info-title {
+    font-size: 26px;
+    color: antiquewhite;
+    padding-top: 45px;
+}
+.build-info-floor,
+.build-info-apartment {
+    font-size: 22px;
+    color: #dfbbc9;
+}
